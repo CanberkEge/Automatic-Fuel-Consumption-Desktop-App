@@ -1,6 +1,6 @@
-Otomatik yakýt Hesaplama Uygulamasýna Hoþgeldiniz
+# Otomatik yakýt Hesaplama Uygulamasýna Hoþgeldiniz
 
-Nasýl Hesaplarým? 
+ ## Nasýl Hesaplarým? 
 	
 	1. Kullandýðýnýz/kullanacaðýnýz yakýt türünü seçiniz.
 	2. Kat ettiðiniz/edeceðiniz mesafeyi km cinsinden giriniz.
