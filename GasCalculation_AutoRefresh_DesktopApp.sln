@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasCalculation_AutoRefresh_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{286B1CE1-39B3-418D-ABBB-89B12842A56E}"
 	ProjectSection(SolutionItems) = preProject
-		ReadMe.txt = ReadMe.txt
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Global
